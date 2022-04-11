@@ -6,3 +6,5 @@ range finder, do a bunch of math and spit out a distance that the wave lenght we
 
 Then I have a running number of how many people have walked by. Every minute or 5 minites it can write that number down and reset itself. With the arduino connected
 to a raspberry pie, we are able to them send that number to a server that can send that number to the database. 
+
+![Uno pic](/images/IMG_3498.jpg "arduino pic")
